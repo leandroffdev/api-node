@@ -16,16 +16,15 @@
 
 ## 📁 Estrutura do Projeto (MVC)
 ```
-backend/
+src/
 │
 ├── controllers/
-│ └── movieController.js
+│ └── filmController.js
 ├── models/
-│ └── movie.js
+│ └── Film.js
 ├── routes/
-│ └── movieRoutes.js
-├── app.js
-├── server.js
+│ └── film.js
+├── index.js
 └── .env
 
 ```
